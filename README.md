@@ -1,5 +1,5 @@
 # Music_store_analysis-
-Business analysis and answering of ad-hoc questiosn of music stores dataset using SQL 
+Business analysis and answering of ad-hoc questiosn of music stores dataset using PostGres 
 
 Dataset consists of artist, albums, customers, playlist, track and invoices data 
 
